@@ -1,0 +1,11 @@
+export { HeroSection } from './HeroSection';
+export { FeaturedPropertiesSection } from './FeaturedPropertiesSection';
+export { PopularCitiesSection } from './PopularCitiesSection';
+export { PropertyTypesSection } from './PropertyTypesSection';
+export { InvestmentSection } from './InvestmentSection';
+export { AboutSection } from './AboutSection';
+export { AgentsSection } from './AgentsSection';
+export { BlogSection } from './BlogSection';
+export { SeoTextSection } from './SeoTextSection';
+export { FaqSection } from './FaqSection';
+export { Footer } from './Footer';

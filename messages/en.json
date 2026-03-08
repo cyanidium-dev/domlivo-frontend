@@ -1,0 +1,9 @@
+{
+  "common": {
+    "search": "Search",
+    "sale": "Sale",
+    "rent": "Rent",
+    "cities": "Cities",
+    "property": "Property"
+  }
+}
